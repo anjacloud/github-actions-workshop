@@ -10,7 +10,7 @@ on:
   - pull_request
 
 jobs:
-  pull request:
+  pull_request:
     name: pull request
 
     # Which type of machine to run the job on (other options include `windows-latest` and `macos-latest`)
